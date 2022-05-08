@@ -32,6 +32,7 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 
 Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)
 
+-> lasercut machine
 -> Hout voor het lasercutten van de draak
 -> rood oranje Plexi voor een vuurvlam te lasercutten
 -> HC-SR04 Ultrasonische afstandssensor
